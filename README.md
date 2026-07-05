@@ -40,7 +40,7 @@ Currently expanding my knowledge in JavaScript frameworks and modern dev tools. 
 
 ### ⚙️ Tools
 <p>
-    <img src="https://skillicons.dev/icons?i=git,github,phpstorm,laragon,xampp"/>
+    <img src="https://skillicons.dev/icons?i=git,github,webstorm,phpstorm,laragon,xampp"/>
 </p>
 
 ---
