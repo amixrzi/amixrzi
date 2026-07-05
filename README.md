@@ -34,8 +34,7 @@ Currently expanding my knowledge in JavaScript frameworks and modern dev tools. 
 ### 🔧 Web
 <p>
     <img src="https://skillicons.dev/icons?i=js,html,css,react,php,laravel,wordpress"/>
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres"/>
-    <img src="https://skillicons.dev/icons?i=cs,cpp"/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres"/>
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,jquery"/>
 </p>
 
