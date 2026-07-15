@@ -7,7 +7,7 @@
 
 ---
 ## 👨‍💻 About Me
-I'm a dedicated Web Developer who enjoys building clean, optimized, and scalable Web applications.
+I'm a dedicated‌ Web Developer who enjoys building clean, optimized, and scalable Web applications.
 I love learning new technologies, improving my skills, and turning ideas into real, functional solutions.
 Currently expanding my knowledge in JavaScript frameworks and modern dev tools. 🚀
 
