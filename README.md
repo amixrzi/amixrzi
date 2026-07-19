@@ -48,7 +48,7 @@ Currently expanding my knowledge in JavaScript frameworks and modern dev tools. 
 ## 📈 GitHub Insights
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amixrzi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=amixrzi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=amixrzi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
