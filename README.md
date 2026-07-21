@@ -61,9 +61,6 @@ Currently expanding my knowledge in JavaScript frameworks and modern dev tools. 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amixrzi&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amixrzi&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</div>
 
 ---
 
