@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Amixrzi </h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&background=5DFF0E00&center=true&vCenter=true&repeat=false&width=435&lines=+Hi%2C+I'm+Amixrzi+%F0%9F%91%8B" alt="Typing SVG" /></a></h2>
 
 <p align="center" style="font-size:20px">
     <b>Backend Developer</b> · JS | PHP 
